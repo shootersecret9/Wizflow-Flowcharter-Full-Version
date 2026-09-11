@@ -234,3 +234,6 @@ This repository serves as the official landing page for WizFlow Flowcharter. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WizFlow Flowcharter today!**
+
+---
+**Last updated:** 2026-09-11 09:21:12 UTC
